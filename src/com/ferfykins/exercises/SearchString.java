@@ -16,7 +16,7 @@ public class SearchString {
     public static void main(String[] args) {
 
 
-        String path = "/home/ferfykins273/Desktop/MyJavaCode/Exercises/SearchText/src/com/ferfykins/exercises/search.txt";
+        String path = "/path";
 
             readFile("went", path);
 
